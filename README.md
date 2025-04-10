@@ -1,4 +1,4 @@
-# mc2-conference-demo
+# Description
 
 This repo is a starter template to build, style, and deploy lightweight React apps to Salesforce Marketing Cloud CloudPages. It uses Vite for blazing-fast builds and Tailwind CSS for responsive styling. Built assets are deployed via SFMC Code Resources and embedded into CloudPages. This repo uses API hosted on code resource and written on SSJS.
 
